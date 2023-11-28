@@ -1,6 +1,6 @@
 # Final Project
 
-Complete your final project in this Replit.
+This is a full acresition that i've completed KIbo web Development
 
 
 You’ve learned a ton about HTML, CSS, and the web in this course. The final project is your chance to build a website of your own design from scratch.
@@ -10,9 +10,7 @@ You’ve learned a ton about HTML, CSS, and the web in this course. The final pr
 [Update this file to describe your project! You can remove the instrcutions in the brackets]
 
 ## Project Authors
-- [Your name here]
-- [Your name here]
-- [Your name here]
+- Milugo Geofrey Ouma
 
 ## Description
-[Any notes you'd like people to know about your project]
+[This website is fully designed using html/css ]
