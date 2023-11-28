@@ -11,8 +11,13 @@ header {
   align-items: center;
   padding: 20px;
   border: 1px solid #f48a10;
+  animation: explode 1s ease-out;
+  animation-fill-mode: forwards;
+  animation-delay: 2s;
+  
 
 }
+
 
 nav {
   display: inline-block;
